@@ -38,7 +38,7 @@ You don’t need to understand everything in this document. Just focus on the on
     - Books
         1. [The Internet of Money](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos-ebook/dp/B01L9WM0H8/ref=sr_1_1?crid=3IC3EZHV5P06J&dchild=1&keywords=the+internet+of+money&qid=1611358794&sprefix=the+internet+of+mone%2Caps%2C274&sr=8-1)
         2. [The Bitcoin Standard](https://www.amazon.com/The-Bitcoin-Standard-audiobook/dp/B07D81VLQH/ref=sr_1_1?crid=20A0R3676SR51&dchild=1&keywords=the+bitcoin+standard&qid=1611358872&sprefix=the+bitcoin+st%2Caps%2C377&sr=8-1)
-    - [What is Decentralization ](https://www.youtube.com/watch?v=R1ccwyP6fjc)
+    - [What is Decentralization](https://www.youtube.com/watch?v=R1ccwyP6fjc)
     - [TEDx Talk about Decentralization](https://www.youtube.com/watch?v=8oeiOeDq_Nc)
     
     - Bitcoin technicals from 10,000 feet.
@@ -52,7 +52,7 @@ You don’t need to understand everything in this document. Just focus on the on
 3. Cryptocurrencies vs Blockchain
     - [How does Blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
     - [Blockchain Vs Cryptocurrency](https://medium.com/datadriveninvestor/blockchain-vs-cryptocurrency-how-the-two-relate-to-each-other-edf7632fe9de)
-    - [Consensus Algorithms](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/) (Non technical)
+    - [Consensus Algorithms](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/) - Non technical
     - [What are Wallets ?](https://www.youtube.com/watch?v=C8hfHYrkQDk)
         1. Hardware wallets
         2. Software wallets
@@ -64,7 +64,7 @@ You don’t need to understand everything in this document. Just focus on the on
 5. DeFi (Decentralized Finance)
     - [What is DeFi](https://www.youtube.com/watch?v=btB__oHQ0sU)
     - [DeFi in layman terms](https://www.youtube.com/watch?v=RxrqNmv2tR0)
-    - [Will DeFi take over Banks ?](https://newsletter.banklesshq.com/p/defi-will-do-to-banks-what-the-internet)
+    - [Will DeFi take over Banks?](https://newsletter.banklesshq.com/p/defi-will-do-to-banks-what-the-internet)
     - [CeFi vs DeFi](https://www.ledger.com/defi-vs-cefi-how-defi-measures-up#:~:text=DeFi%20refers%20to%20the%20decentralized,with%20the%20new%20digital%20asset)
     
     - What is [MetaMask](https://www.youtube.com/watch?v=YVgfHZMFFFQ) ? 
@@ -73,7 +73,7 @@ You don’t need to understand everything in this document. Just focus on the on
     - [Uniswap](https://decrypt.co/resources/what-is-uniswap) 
     
 6. Stablecoins
-    - [What are stablecoins ?](https://www.youtube.com/watch?v=GsSSLDzKCOE)
+    - [What are stablecoins?](https://www.youtube.com/watch?v=GsSSLDzKCOE)
         1. [Types of stablecoins](https://coincentral.com/types-of-stablecoins/)
         
     - [Central Bank Digital Currencies(CBDCs)?](https://www.youtube.com/watch?v=bAIS6-AjYOE)
@@ -115,7 +115,7 @@ You don’t need to understand everything in this document. Just focus on the on
         3. [Trezer](https://trezor.io/) 
         
 11. Other resources
-    - [Podcasts]
+    - Podcasts
         1. [Top 10](https://www.forbes.com/sites/tatianakoffman/2020/06/19/top-10-crypto-podcasts-of-2020/?sh=1175dcec3064)
         2. [Potential of blockchains, the idea of scarcity in digital assets, and hashing](https://www.joincolossus.com/episodes/39800754/lowin-hash-power-part-1)
         3. [Why we need bitcoin and blockchains, investing in cryptocurrencies and ICOs, and the lifecycle of a token](https://www.joincolossus.com/episodes/27167205/seims-hash-power-part-2)
