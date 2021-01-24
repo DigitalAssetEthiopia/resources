@@ -43,18 +43,19 @@ You don’t need to understand everything in this document. Just focus on the on
     
     - Bitcoin technicals from 10,000 feet.
         1. [How Bitcoin Works](https://www.youtube.com/watch?v=l9jOJk30eQs)
-        2. [What is Mining and Miners ?](https://www.youtube.com/watch?v=L-Qhv8kLESY)
+        2. [What is Mining and Miners?](https://www.youtube.com/watch?v=L-Qhv8kLESY)
         
         3. A few crypto currency and bitcoin terms you should be familiar with.
             - [https://www.dailywritingtips.com/cryptocurrency-bitcoin-terms/](https://www.dailywritingtips.com/cryptocurrency-bitcoin-terms/)
             - [The Blockchain Dictionary:](https://telegra.ph/the-blockchain-dictionary-01-05)  
             
-3. Cryptocurrencies vs  Blockchain
-    - [How does Blockchain work ?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+3. Cryptocurrencies vs Blockchain
+    - [How does Blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
     - [Blockchain Vs Cryptocurrency](https://medium.com/datadriveninvestor/blockchain-vs-cryptocurrency-how-the-two-relate-to-each-other-edf7632fe9de)
     - [Consensus Algorithms](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/) (Non technical)
     - [What are Wallets ?](https://www.youtube.com/watch?v=C8hfHYrkQDk)
         1. Hardware wallets
+        2. Software wallets
          
 4. Ethereum and Alt coins (Alt = Alternative)
     - [Ethereum Basics](https://www.youtube.com/watch?v=MYOvvOyStvg) 
@@ -75,7 +76,7 @@ You don’t need to understand everything in this document. Just focus on the on
     - [What are stablecoins ?](https://www.youtube.com/watch?v=GsSSLDzKCOE)
         1. [Types of stablecoins](https://coincentral.com/types-of-stablecoins/)
         
-    - [Central Bank Digital Currencies(CBDCs) ? ](https://www.youtube.com/watch?v=bAIS6-AjYOE)
+    - [Central Bank Digital Currencies(CBDCs)?](https://www.youtube.com/watch?v=bAIS6-AjYOE)
     - [Stablecoins, Central Bank Digital Currencies, and Cross-Border Payments: A New Look at the International Monetary System](https://www.imf.org/en/News/Articles/2019/05/13/sp051419-stablecoins-central-bank-digital-currencies-and-cross-border-payments)
     
 7. NFTs (Non Fungible Tokens) and the rise of Digital Art.
@@ -96,23 +97,27 @@ You don’t need to understand everything in this document. Just focus on the on
         8. [Bitstamp.com](https://Bitstamp.com)  
         
     - World wide
-        1. FTX ([https://ftx.com/#a=2170531](https://ftx.com/#a=2170531))
-        2. Binance.com ([https://www.binance.com/en/register?ref=UGNLAMAK](https://www.binance.com/en/register?ref=UGNLAMAK))
+        1. [FTX](https://ftx.com/#a=2170531)
+        2. [Binance.com](https://www.binance.com/en/register?ref=UGNLAMAK))
         
     - Leverage and Margin Trading (most exclude US people except Kraken)
-        1. ByBit ([https://www.bybit.com/en-US/invite?ref=RPXYw](https://www.bybit.com/en-US/invite?ref=RPXYw) )
-        2. FTX
-        3. Bitmex
+        1. [ByBit](https://www.bybit.com/en-US/invite?ref=RPXYw)
+        2. [FTX](https://ftx.com/#a=2170531)
+        3. [Bitmex](https://www.bitmex.com)
         
 10. Security
     - [How to keep your crypto safe](https://decrypt.co/34481/how-to-keep-your-bitcoin-safe-and-secure)
-        1. [What is SIM SWAP attack? ](https://www.efani.com/blog/everything-about-sim-swap/)
+        1. [What is SIM SWAP attack?](https://www.efani.com/blog/everything-about-sim-swap/)
         
     - Hardware Wallets
-        1. [Why do you need hardware wallets ?](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-1-do-you-really-need-a-hardware-wallet-7f5abbadd945#:~:text=The%20main%20principle%20behind%20hardware,get%20hacked%20and%20lose%20everything.)
+        1. [Why do you need hardware wallets?](https://medium.com/ledger-on-security-and-blockchain/ledger-101-part-1-do-you-really-need-a-hardware-wallet-7f5abbadd945#:~:text=The%20main%20principle%20behind%20hardware,get%20hacked%20and%20lose%20everything.)
         2. [Ledger](https://www.ledger.com/)
         3. [Trezer](https://trezor.io/) 
         
 11. Other resources
-    - [Podcasts](https://www.forbes.com/sites/tatianakoffman/2020/06/19/top-10-crypto-podcasts-of-2020/?sh=1175dcec3064)
+    - [Podcasts]
+        1. [Top 10](https://www.forbes.com/sites/tatianakoffman/2020/06/19/top-10-crypto-podcasts-of-2020/?sh=1175dcec3064)
+        2. [Potential of blockchains, the idea of scarcity in digital assets, and hashing](https://www.joincolossus.com/episodes/39800754/lowin-hash-power-part-1)
+        3. [Why we need bitcoin and blockchains, investing in cryptocurrencies and ICOs, and the lifecycle of a token](https://www.joincolossus.com/episodes/27167205/seims-hash-power-part-2)
+        4. [Regulation and storage of cryptos, forking in blockchains, and the need for increased security in cryptos](https://www.joincolossus.com/episodes/45490117/ehrsam-hash-power-part-3)
     - [Crypto in Africa](https://bitcoinke.io/)
