@@ -38,28 +38,21 @@ You don’t need to understand everything in this document. Just focus on the on
 2. **Bitcoin**
 
    - [Bitcoin for Beginners](https://www.youtube.com/watch?v=UlKZ83REIkA)
-
    - [Why Bitcoin?](https://www.youtube.com/watch?v=l1si5ZWLgy0)
-
    - [The Internet of Money](https://www.youtube.com/watch?v=rc744Z9IjhY)
 
      Books
-
      1. [The Internet of Money](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos-ebook/dp/B01L9WM0H8/ref=sr_1_1?crid=3IC3EZHV5P06J&dchild=1&keywords=the+internet+of+money&qid=1611358794&sprefix=the+internet+of+mone%2Caps%2C274&sr=8-1)
      2. [The Bitcoin Standard](https://www.amazon.com/The-Bitcoin-Standard-audiobook/dp/B07D81VLQH/ref=sr_1_1?crid=20A0R3676SR51&dchild=1&keywords=the+bitcoin+standard&qid=1611358872&sprefix=the+bitcoin+st%2Caps%2C377&sr=8-1)
 
    - [What is Decentralization](https://www.youtube.com/watch?v=R1ccwyP6fjc)
-
    - [TEDx Talk about Decentralization](https://www.youtube.com/watch?v=8oeiOeDq_Nc)
-
    - Bitcoin technicals from 10,000 feet.
 
      1. [How Bitcoin Works](https://www.youtube.com/watch?v=l9jOJk30eQs)
-
      2. [What is Mining and Miners?](https://www.youtube.com/watch?v=L-Qhv8kLESY)
 
         A few crypto currency and bitcoin terms you should be familiar with.
-
         - [https://www.dailywritingtips.com/cryptocurrency-bitcoin-terms/](https://www.dailywritingtips.com/cryptocurrency-bitcoin-terms/)
         - [The Blockchain Dictionary](https://telegra.ph/the-blockchain-dictionary-01-05)  
 
@@ -67,10 +60,11 @@ You don’t need to understand everything in this document. Just focus on the on
 
    - [How does Blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
    - [Blockchain Vs Cryptocurrency](https://medium.com/datadriveninvestor/blockchain-vs-cryptocurrency-how-the-two-relate-to-each-other-edf7632fe9de)
-   - [Consensus Algorithms](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/) - Non technical
-   - [What are Wallets?](https://www.youtube.com/watch?v=C8hfHYrkQDk)
-     1. Hardware wallets
-     2. Software wallets
+   - [Consensus Algorithms](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/) 
+   - Non technical
+      - [What are Wallets?](https://www.youtube.com/watch?v=C8hfHYrkQDk)
+         1. Hardware wallets
+         2. Software wallets
 
 4. **Ethereum and Alt coins (Alt = Alternative)**
 
@@ -80,32 +74,23 @@ You don’t need to understand everything in this document. Just focus on the on
 5. **DeFi (Decentralized Finance)**
 
    - [What is DeFi](https://www.youtube.com/watch?v=btB__oHQ0sU)
-
    - [DeFi in layman terms](https://www.youtube.com/watch?v=RxrqNmv2tR0)
-
    - [Will DeFi take over Banks?](https://newsletter.banklesshq.com/p/defi-will-do-to-banks-what-the-internet)
-
    - [CeFi vs DeFi](https://www.ledger.com/defi-vs-cefi-how-defi-measures-up#:~:text=DeFi%20refers%20to%20the%20decentralized,with%20the%20new%20digital%20asset)
-
    - [What is MetaMask?](https://www.youtube.com/watch?v=YVgfHZMFFFQ) 
-
-     ​	[MetaMask.io](https://metamask.io/) 
-
+      - [MetaMask.io](https://metamask.io/) 
    - [Uniswap](https://decrypt.co/resources/what-is-uniswap) 
 
 6. **Stablecoins**
 
    - [What are stablecoins?](https://www.youtube.com/watch?v=GsSSLDzKCOE)
-
-     ​	[Types of stablecoins](https://coincentral.com/types-of-stablecoins/)
-
+      - [Types of stablecoins](https://coincentral.com/types-of-stablecoins/)
    - [Central Bank Digital Currencies(CBDCs)?](https://www.youtube.com/watch?v=bAIS6-AjYOE)
-
    - [Stablecoins, Central Bank Digital Currencies, and Cross-Border Payments: A New Look at the International Monetary System](https://www.imf.org/en/News/Articles/2019/05/13/sp051419-stablecoins-central-bank-digital-currencies-and-cross-border-payments)
 
 7. **NFTs (Non Fungible Tokens) and the rise of Digital Art.**
 
-   - [What is NFT](https://cointelegraph.com/magazine/nonfungible-tokens/) ?
+   - [What is NFT?](https://cointelegraph.com/magazine/nonfungible-tokens/)
    - [Fungible vs Non Fungible Tokens](https://cointelegraph.com/magazine/nonfungible-tokens/#fungible-vs-non-fungible)
 
 8. [Polkadot](https://polkadot.network/what-is-polkadot-a-brief-introduction/)
@@ -114,17 +99,17 @@ You don’t need to understand everything in this document. Just focus on the on
 
    - US 
      1. [Binance.us](https://accounts.binance.us/en/register?ref=35011466)
-     2. [FTX.US](https://FTX.US) 
+     2. [FTX.US](https://FTX.US)
      3. [Coinbase.com](https://www.coinbase.com/join/abdiss_4)
-     4. [Kraken.com](https://Kraken.com) 
-     5. [Gemini.com](https://Gemini.com) 
-     6. [Bittrex.com](https://bittrex.com/) 
-     7. [CEX.io](https://CEX.io) 
-     8. [Bitstamp.com](https://Bitstamp.com)  
+     4. [Kraken.com](https://Kraken.com)
+     5. [Gemini.com](https://Gemini.com)
+     6. [Bittrex.com](https://bittrex.com/)
+     7. [CEX.io](https://CEX.io)
+     8. [Bitstamp.com](https://Bitstamp.com)
 
    - World wide
      1. [FTX](https://ftx.com/#a=2170531)
-     2. [Binance.com](https://www.binance.com/en/register?ref=UGNLAMAK))
+     2. [Binance.com](https://www.binance.com/en/register)
 
    - Leverage and Margin Trading (most exclude US people except Kraken)
      1. [ByBit](https://www.bybit.com/en-US/invite?ref=RPXYw)
