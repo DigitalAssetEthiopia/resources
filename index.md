@@ -1,3 +1,7 @@
+*[Updates of Jan, 28 2021] : Added section to find tokens under ```Where to find coins```*
+
+---
+
 ## Welcome to Digital Assests Ethiopia Page
 
 Here you will find curated list of content that we have experience working on or used at some point. Feel free to ask questions on the Telegram Channel regarding any of this content.
@@ -144,4 +148,8 @@ You don’t need to understand everything in this document. Just focus on the on
       2. [Potential of blockchains, the idea of scarcity in digital assets, and hashing](https://www.joincolossus.com/episodes/39800754/lowin-hash-power-part-1)
       3. [Why we need bitcoin and blockchains, investing in cryptocurrencies and ICOs, and the lifecycle of a token](https://www.joincolossus.com/episodes/27167205/seims-hash-power-part-2)
       4. [Regulation and storage of cryptos, forking in blockchains, and the need for increased security in cryptos](https://www.joincolossus.com/episodes/45490117/ehrsam-hash-power-part-3)
-    - [Crypto in Africa](
+    - [Crypto in Africa](https://bitcoinke.io/)
+
+    - Where to find coins?
+      - [coinmarketcap](https://coinmarketcap.com/)
+      - [coingecko](https://www.coingecko.com/)
